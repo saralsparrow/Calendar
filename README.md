@@ -36,3 +36,7 @@ In case of any issues, try reopening the website in a browser. If issues persist
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+https://saralsparrow.github.io/Calendar/
+
+![Screenshot of webpage](<Screenshot 2024-02-24 235736.png>)
