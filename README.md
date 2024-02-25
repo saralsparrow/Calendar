@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 https://saralsparrow.github.io/Calendar/
 
-![Screenshot of webpage](<Screenshot 2024-02-24 235736.png>)
+![Screenshot of webpage](<./Assets/Screenshot 2024-02-24 235736.png>)
