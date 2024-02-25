@@ -52,4 +52,8 @@ $(function () {
     console.log("#hour-" + i + " .description")
   }
   // TODO: Add code to display the current date in the header of the page.
+var currentDate = dayjs().format("dddd, MMMM DD, YYYY")
+
+document.getElementById("currentDay").textContent = currentDate;
+
 });
